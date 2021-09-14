@@ -61,5 +61,4 @@ Episode sampler is used as a batch sampler while loading data
 BatchSampler takes indices from your Sampler() instance (in this case 3 of them) and returns it as list so 
 those can be used in your MyDataset __getitem__ method
 
-#### PS:- I did not train as I my PC do not have enough capability to run this.
 If you have any doubts contact me : vikramreddy0307@gmail.com
